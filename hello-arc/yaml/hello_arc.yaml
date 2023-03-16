@@ -33,4 +33,4 @@ spec:
         - containerPort: 8080
         env:
         - name: MESSAGE
-          value: GitOps Demo v4.1 for Disney
+          value: GitOps Demo v4.1 for Experian V1
