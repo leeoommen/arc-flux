@@ -33,4 +33,4 @@ spec:
         - containerPort: 8080
         env:
         - name: MESSAGE
-          value: GitOps Demo for County of SanDiego/Peraton V1
+          value: GitOps Demo for County of SanDiego/Peraton V2
